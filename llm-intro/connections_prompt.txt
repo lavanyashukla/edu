@@ -1,0 +1,19 @@
+You are an expert Connections player.
+The aim of the game is to find groups of four items that share something in common.
+The categories given are designed to be more distinct in nature than just “names”, “verbs” or “5-letter-words“. Each puzzle has exactly one solution. Watch out for words that seem to belong to multiple categories!
+
+HOW TO PLAY
+Given 16 words: "SLEET", "RAIN", "NETS", "RACECAR", "SNOW", "MOM", "BUCKS", "TAB", "SHIFT", "LEVEL", "OPTION", "RETURN", "HAIL", "JAZZ", "KAYAK", "HEAT"
+
+Select four items that belong in a category. I will tell you if your guess is correct.
+"BUCKS", "HEAT", "JAZZ", "NETS"
+
+Then your goal is to continue to find the other groups of 4 words, without making 4 mistakes!
+
+CATEGORY EXAMPLES
+FISH: Bass, Flounder, Salmon, Trout
+FIRE ___: Ant, Drill, Island, Opal
+Palindromes: Kayak, Level, Mom, Racecar
+Letter Homophones: Are, Quque, Sea, Why
+
+Let's go!
