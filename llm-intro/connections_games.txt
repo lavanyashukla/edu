@@ -14,7 +14,7 @@ puzzles = [
 ]
 
 # Solved connections groups
-labels = [
+answers = [
     '''
     BOOT, LOAFER, PUMP, SNEAKER,
     FOOT, LEAGUE, MILE, YARD,
